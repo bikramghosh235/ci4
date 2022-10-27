@@ -224,6 +224,7 @@
 
         <h2>The small framework with powerful features</h2>
         <h2>Arabinda Ghosh</h2>
+        <h2>Bikram Ghosh</h2>
 
     </div>
 
